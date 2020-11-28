@@ -23,3 +23,19 @@ function calcAge(age) {
 }
 
 console.log('44 years is ' + calcAge(44) + ' days laong!');
+
+function addition(a, b) {
+    return a + b
+}
+
+function findPerimeter(length, width) {
+    return (length*2) + (width*2)
+}
+
+function hello() {
+    return "hello edabit.com"
+
+    function remainder(x, y) {
+        return x % y
+    }
+}
